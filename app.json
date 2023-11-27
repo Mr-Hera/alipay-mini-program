@@ -1,9 +1,13 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/checkout/checkout",
+    "pages/confirmation/confirmation",
+    "pages/authentication/authentication",
+    "pages/success/success"
   ],
   "window": {
-    "defaultTitle": "My App"
+    "defaultTitle": "EatOut"
   },
   "behavior": {
     "requestReferrerStrategy": "page",
