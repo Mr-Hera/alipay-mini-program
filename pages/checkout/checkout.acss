@@ -1,0 +1,24 @@
+container {
+  /* background-color: green; */
+  /* color: white; */
+  display: flex;
+  margin: auto;
+  /* width: 300px; */
+  /* border-radius: 5px; */
+}
+
+button {
+  background-color: green;
+  color: white;
+  margin: auto;
+  width: 300px;
+  border-radius: 5px;
+}
+
+input {
+  /* background-color: black; */
+  /* color: white; */
+  width: 250px;
+  margin: auto;
+  border-radius: 5px;
+}
