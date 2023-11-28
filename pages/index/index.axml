@@ -4,4 +4,6 @@
 </view> -->
 <!-- <view>
 </view> -->
-<checkout />
+<!-- <checkout /> -->
+<!-- <confirmation /> -->
+<success />

@@ -1,0 +1,31 @@
+<view class="container">
+  <view class="content">
+    <view>
+      <text class="bill-text">BUY GOODS</text>
+    </view>
+    <!-- <input class="checkout-input" type="number" placeholder="Amount" /> -->
+    <view class="confirmation-container">
+      <text>BUSSINESS NAME</text>
+      <view>
+        <text class="confirmation-text">WEBSIMBA LIMITED</text>
+      </view>
+    </view>
+    <view class="confirmation-container">
+      <text>TILL NUMBER</text>
+      <view>
+        <text class="confirmation-text">8386426</text>
+      </view>
+    </view>
+    <view class="confirmation-container">
+      <text>AMOUNTS</text>
+      <view>
+        <text class="confirmation-text">KSH.2,500.00</text>
+      </view>
+    </view>
+    
+    
+    <text>Cashback amount:</text>
+    <text class="cashback-amount">Kes 0.00</text>
+    <button class="checkout-button">MAKE PAYMENT</button>
+  </view>
+</view>

@@ -1,0 +1,32 @@
+<view class="container">
+  <view class="content">
+    <view class="confirmation-container">
+      <!-- <text>BUSSINESS NAME</text> -->
+      <text class="confirmation-text">WEBSIMBA LIMITED</text>
+    </view>
+    <view class="confirmation-container">
+      <view>
+        <text class="confirmation-text">TILL NUMBER</text>
+        <text>8386426</text>
+      </view>
+    </view>
+    <view class="confirmation-container">
+      <view>
+        <text class="confirmation-text">KSH. 1.00</text>
+        <text>FEE: KSH. 0.00</text>
+      </view>
+    </view>
+
+    <view class="confirmation-container success-message">
+      <view>
+        <text class="confirmation-text bill-text">Your transaction is successful</text>
+      </view>
+      <view>
+        <text class="confirmation-text bill-text">ID RJH1Q900A7</text>
+      </view>
+    </view>
+    
+    
+    <button class="checkout-button">DONE</button>
+  </view>
+</view>
