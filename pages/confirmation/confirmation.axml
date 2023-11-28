@@ -17,9 +17,9 @@
       </view>
     </view>
     <view class="confirmation-container">
-      <text>AMOUNTS</text>
+      <text>AMOUNT</text>
       <view>
-        <text class="confirmation-text">KSH.2,500.00</text>
+        <text class="confirmation-text">KSH.1.00</text>
       </view>
     </view>
     
