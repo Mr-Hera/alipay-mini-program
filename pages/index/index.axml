@@ -1,7 +1,7 @@
 
-<view>
+<!-- <view>
   <button>Eat-Out Checkout</button>
-</view>
-<view>
-  <checkout />
-</view>
+</view> -->
+<!-- <view>
+</view> -->
+<checkout />

@@ -1,6 +1,9 @@
 <view class="container">
-  <text>Enter your bill amount</text>
-  <input value="Amount" />
-  <text>Cashback amount</text>
-  <button>PAY NOW</button>
+  <view class="content">
+    <text class="bill-text">Enter your bill amount</text>
+    <input class="checkout-input" type="number" placeholder="Amount" />
+    <text>Cashback amount:</text>
+    <text class="cashback-amount">Kes 0.00</text>
+    <button class="checkout-button">PAY NOW</button>
+  </view>
 </view>
