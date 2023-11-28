@@ -1,7 +1,7 @@
 <view class="container">
-  <view class="content">
+  <view class="confirmation-content">
     <view>
-      <text class="bill-text">BUY GOODS</text>
+      <text class="confirmation-bill-text">BUY GOODS</text>
     </view>
     <!-- <input class="checkout-input" type="number" placeholder="Amount" /> -->
     <view class="confirmation-container">

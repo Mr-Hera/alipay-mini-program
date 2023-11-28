@@ -13,7 +13,7 @@
   padding: 10%;
 }
 
-.bill-text {
+.amount {
   font-size: large;
   font-weight: bold;
   width: 60px;

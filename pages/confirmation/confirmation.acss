@@ -7,7 +7,7 @@
   padding: 10%;
 }
 
-.content {
+.confirmation-content {
   display: block;
   /* border: 2px solid black; */
   margin: auto;
@@ -24,12 +24,12 @@
   margin: 20px 0 20px 0;
 }
 
-.bill-text {
+.confirmation-bill-text {
   font-size: large;
   font-weight: bold;
   width: 60px;
   margin-left: 25%;
-  /* margin-bottom: 20px; */
+  margin-bottom: 20px;
 }
 
 .cashback-amount {
