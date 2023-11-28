@@ -1,9 +1,6 @@
 
 <view class="index-button">
-  <button>Eat-Out Checkout</button>
+  <navigator open-type="navigate" url="/pages/checkout/checkout" hover-class="navigator-hover">
+    <button>Eat-Out Checkout</button>
+  </navigator>
 </view>
-<!-- <view>
-</view> -->
-<!-- <checkout /> -->
-<!-- <confirmation /> -->
-<!-- <success /> -->

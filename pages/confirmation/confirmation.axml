@@ -26,6 +26,9 @@
     
     <text>Cashback amount:</text>
     <text class="cashback-amount">Kes 0.00</text>
-    <button class="checkout-button">MAKE PAYMENT</button>
+
+    <navigator open-type="navigate" url="/pages/success/success" hover-class="navigator-hover">
+      <button class="checkout-button">MAKE PAYMENT</button>
+    </navigator>
   </view>
 </view>

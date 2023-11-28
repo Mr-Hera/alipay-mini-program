@@ -1,1 +1,7 @@
-{}
+{
+  "usingComponents": {
+    "index": "/pages/index/index",
+    "confirmation": "/pages/confirmation/confirmation",
+    "success": "/pages/success/success"
+  }
+}

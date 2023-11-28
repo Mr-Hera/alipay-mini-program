@@ -4,6 +4,9 @@
     <input class="checkout-input" type="number" placeholder="Amount" />
     <text>Cashback amount:</text>
     <text class="cashback-amount">Kes 0.00</text>
-    <button class="checkout-button">PAY NOW</button>
+
+    <navigator open-type="navigate" url="/pages/confirmation/confirmation" hover-class="navigator-hover">
+      <button class="checkout-button">PAY NOW</button>
+    </navigator>
   </view>
 </view>
