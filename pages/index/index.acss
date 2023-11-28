@@ -1,7 +1,7 @@
-/* button {
+.index-button button {
   background-color: black;
   color: white;
   margin: auto;
   width: 300px;
   border-radius: 5px;
-} */
+}

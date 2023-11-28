@@ -1,9 +1,9 @@
 
-<!-- <view>
+<view class="index-button">
   <button>Eat-Out Checkout</button>
-</view> -->
+</view>
 <!-- <view>
 </view> -->
 <!-- <checkout /> -->
-<confirmation />
+<!-- <confirmation /> -->
 <!-- <success /> -->
