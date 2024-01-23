@@ -1,9 +1,16 @@
 <view class="container">
   <view class="content">
-    <text class="amount">Enter your bill amount</text>
+    <text class="amount">
+      Enter your final bill amount below and click proceed to pay with M-PESA. Your cashback will be sent directly to your M-PESA account
+    </text>
     <input class="checkout-input" type="number" placeholder="Amount" />
-    <text>Cashback amount:</text>
-    <text class="cashback-amount">Kes 0.00</text>
+    <text class="cashback-amount">Cashback amount</text>
+    <text class="cashback-percent"> 10%</text>
+
+    <view>
+      <text class="receive-text">You receive</text>
+      <text class="receive-amount">300</text>
+    </view>    
 
     <navigator open-type="navigate" url="/pages/confirmation/confirmation" hover-class="navigator-hover">
       <button class="checkout-button">PAY NOW</button>

@@ -1,6 +1,6 @@
 <view class="container">
-  <view class="content">
-    <view class="confirmation-container">
+  <view class="content confirmation-container">
+    <view class="">
       <!-- <text>BUSSINESS NAME</text> -->
       <text class="confirmation-text">WEBSIMBA LIMITED</text>
     </view>

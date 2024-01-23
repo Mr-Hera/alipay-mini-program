@@ -1,6 +1,8 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/restaurants/restaurants",
+    "pages/offer/offer",
     "pages/checkout/checkout",
     "pages/confirmation/confirmation",
     "pages/authentication/authentication",

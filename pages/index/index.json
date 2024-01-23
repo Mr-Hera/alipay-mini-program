@@ -1,7 +1,1 @@
-{
-  "usingComponents": {
-    "checkout": "/pages/checkout/checkout",
-    "confirmation": "/pages/confirmation/confirmation",
-    "success": "/pages/success/success"
-  }
-}
+{}

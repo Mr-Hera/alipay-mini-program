@@ -11,9 +11,9 @@
   margin: auto;
 }
 
-.amount {
-  font-size: medium;
-  width: 60%;
+.title {
+  font-weight: bold;
+  /* width: 60%; */
 }
 
 .receive-text {
@@ -49,6 +49,11 @@
   width: 100%;
   border: none;
   border-radius: 5px;
+}
+
+.actionable-text {
+  text-align: center;
+  margin: auto;
 }
 
 .checkout-input {

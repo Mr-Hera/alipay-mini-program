@@ -1,0 +1,13 @@
+<view class="container">
+  <view class="content">
+    <text class="title">TODAY'S OFFERS</text>
+    
+    <navigator open-type="navigate" url="/pages/checkout/checkout" hover-class="navigator-hover">
+      <button class="checkout-button">Earn 10% cashback</button>
+    </navigator>
+    <navigator open-type="navigate" url="/pages/checkout/checkout" hover-class="navigator-hover">
+      <button class="checkout-button">Claim a free glass of wine</button>
+    </navigator>
+    <text class="actionable-text">Click above to redeem your offer.</text>
+  </view>
+</view>
