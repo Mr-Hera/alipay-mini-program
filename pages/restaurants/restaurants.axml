@@ -1,0 +1,183 @@
+<scroll-view scroll-y="{{true}}">
+  <view class="container">
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">About Thyme</text>
+        </view>
+        <view>
+          <text class="offer-text">Eldama Ravine, Westlands</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">15%</button>
+      </navigator>
+    </view>
+    
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Ankole Grill</text>
+        </view>
+        <view>
+          <text class="offer-text">Kitusuru Road, Kitusuru</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">15%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Baobox</text>
+        </view>
+        <view>
+          <text class="offer-text">Peponi Road, Westlands</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">15%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Cultiva</text>
+        </view>
+        <view>
+          <text class="offer-text">Kuku Close, Karen</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">10%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Dawn</text>
+        </view>
+        <view>
+          <text class="offer-text">General Mathenge Road</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">20%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Fonda</text>
+        </view>
+        <view>
+          <text class="offer-text">Samburu Plaza, Karen</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">15%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Grill Shack</text>
+        </view>
+        <view>
+          <text class="offer-text">Westgate Mall</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">10%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Choma Zone</text>
+        </view>
+        <view>
+          <text class="offer-text">Westgate Mall</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">18%</button>
+      </navigator>
+    </view>
+
+    <view class="offer">
+      <!-- <image mode="scaleToFill" src="" /> -->
+      <view class="offer-image">
+        
+      </view>
+      <view class="offer-details">
+        <view>
+          <text class="offer-text">Mama Nilishe</text>
+        </view>
+        <view>
+          <text class="offer-text">Westgate Mall</text>
+        </view>
+      </view>
+      
+      
+      <navigator open-type="navigate" url="/pages/offer/offer" hover-class="navigator-hover">
+        <button class="offer-percentage">10%</button>
+      </navigator>
+    </view>
+  </view>
+</scroll-view>
