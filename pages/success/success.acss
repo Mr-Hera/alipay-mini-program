@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  max-height: 89vh;
+  height: 100vh;
   margin: auto;
   padding: 10%;
 }
@@ -11,19 +11,18 @@
   display: block;
   /* border: 2px solid black; */
   margin: auto;
-  width: 80%;
-  padding: 10%;
+  width: 100%;
+  /* padding: 10%; */
   text-align: center;
 }
 
 .confirmation-container {
-  margin: 20px 0 20px 0;
+  margin: 5px 0 5px 0;
 }
 
 .confirmation-text {
   font-weight: bold;
-  margin: 20px 0 20px 0;
-  padding-right: 5px;
+  /* padding-right: 5px; */
 }
 
 .bill-text {
@@ -31,7 +30,7 @@
 }
 
 .success-message {
-  margin-top: 60%;
+  margin-top: 40%;
 }
 
 .cashback-amount {
